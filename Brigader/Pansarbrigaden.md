@@ -2,11 +2,11 @@
 
 ## Ledning- och Sambandskompani
 
-## [[Mekaniserad Bataljon]]
+## [Mekaniserad Bataljon](/Bataljoner/mekaniserad_bataljon.md)
 
-## [[Mekaniserad Bataljon]]
+## [Mekaniserad Bataljon](/Bataljoner/mekaniserad_bataljon.md)
 
-## [[Mekaniserad Bataljon]]
+## [Mekaniserad Bataljon](/Bataljoner/mekaniserad_bataljon.md)
 
 ## Mekaniserat Spaningskompani
 

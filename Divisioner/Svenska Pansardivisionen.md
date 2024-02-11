@@ -1,8 +1,14 @@
 # Svenska Pansardivisionen
 
-## [[Djupverkansbrigaden]]
-## [[Ledningsbataljon (pansar)|Ledningsbataljon (pansar)]]
-## [[Mekaniserade Skaraborgsbrigaden]]
-## [[Mekaniserade Norrbottensbrigaden]]
-## [[Pansarbrigaden]]
-## [[Underhållsbrigad (pansar)]]
+## [Djupverkansbrigaden](/Brigader/Djupverkansbrigaden.md)
+
+## [Ledningsbataljon (pansar)|Ledningsbataljon (pansar)](/Bataljoner/Ledningsbataljon%20(pansar).md)
+
+## [Mekaniserade Skaraborgsbrigaden](/Brigader/Mekaniserade%20Skaraborgsbrigaden.md)
+
+## [Mekaniserade Norrbottensbrigaden](/Brigader/Mekaniserade%20Norrbottensbrigaden.md)
+
+## [Pansarbrigaden](/Brigader/Pansarbrigaden.md)
+
+## [Underhållsbrigad (pansar)](/Brigader/Underhållsbrigad%20(pansar).md)
+
