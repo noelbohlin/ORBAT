@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "46aa159fead48942",
+        "id": "0fae74e7f0745dc5",
         "type": "tabs",
         "children": [
           {
-            "id": "b5890128b1adeee4",
+            "id": "6169a202900276e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brigader/Pansarbrigaden.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brigader/Pansarbrigaden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brigader/Pansarbrigaden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Brigader/Pansarbrigaden.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,11 +145,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5890128b1adeee4",
+  "active": "6169a202900276e3",
   "lastOpenFiles": [
-    "Kompanier/Bandgående Ingenjörkompani.md",
-    "Brigader/Underättelse- och Artilleribrigaden.md",
     "Bataljoner/Mekaniserad Bataljon.md",
+    "Kompanier/Bandgående Ingenjörkompani.md",
+    "Bataljoner/Brigadingenjörbataljon.md",
+    "Brigader/Pansarbrigaden.md",
+    "Brigader/Underättelse- och Artilleribrigaden.md",
     "README.md",
     "Svenska Armén/Arméstaben.md",
     "Svenska Armén/Fristående Arméförband.md",
@@ -176,12 +170,10 @@
     "Brigader/Mekaniserade Skaraborgsbrigaden.md",
     "Brigader/Kungliga Livgardesbrigaden.md",
     "Brigader/Motoriserade Skyttebrigaden.md",
-    "Brigader/Pansarbrigaden.md",
     "Brigader/Norrlands Infanteribrigad.md",
     "Brigader/Mekaniserade Norrbottensbrigaden.md",
     "Bataljoner/Mekaniserad/ Bataljon.md",
     "Bataljoner/Mekaniserad",
-    "Brigader/Underhållsbrigad (infanteri).md",
     "Divisioner",
     "Brigader",
     "Kompanier",
