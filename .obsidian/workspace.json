@@ -15,7 +15,7 @@
               "state": {
                 "file": "Divisioner/Svenska Pansardivisionen.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -157,6 +157,7 @@
   "lastOpenFiles": [
     "Divisioner/Svenska Infanteridivisionen.md",
     "Divisioner/Svenska Pansardivisionen.md",
+    "conflict-files-obsidian-git.md",
     "Svenska Armén/Fristående Arméförband/MilitärPolisbrigaden.md",
     "Bataljoner/mekaniserad_bataljon.md",
     "Kompanier/Pansarskyttekompani.md",
@@ -183,7 +184,6 @@
     "Divisioner",
     "Brigader",
     "Kompanier/Stridsvagnskompani.md",
-    "Kompanier/Stab- och Understödskompani.md",
     "Kompanier",
     "Bataljoner",
     "Untitled.canvas",
