@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Svenska Armén/Svenska Pansardivisionen/Mekaniserade Norrbottensbrigaden.md",
-                "mode": "preview",
+                "file": "Brigader/Underhållsbrigad (infanteri).md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Svenska Armén/Svenska Pansardivisionen/Mekaniserade Norrbottensbrigaden.md",
+                "file": "Brigader/Underhållsbrigad (infanteri).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Svenska Armén/Svenska Pansardivisionen/Mekaniserade Norrbottensbrigaden.md",
+                "file": "Brigader/Underhållsbrigad (infanteri).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Svenska Armén/Svenska Pansardivisionen/Mekaniserade Norrbottensbrigaden.md"
+                "file": "Brigader/Underhållsbrigad (infanteri).md"
               }
             }
           }
@@ -148,28 +148,37 @@
   },
   "active": "3ba6cb117c269885",
   "lastOpenFiles": [
-    "Svenska Armén/Svenska Pansardivisionen/Mekaniserade Skaraborgsbrigaden.md",
-    "Svenska Armén/Svenska Pansardivisionen/Mekaniserade Norrbottensbrigaden.md",
-    "Svenska Armén/Svenska Pansardivisionen/Ledningsbataljon.md",
-    "Svenska Armén/Svenska Pansardivisionen/Djupverkansbrigaden.md",
-    "Svenska Armén/Svenska Pansardivisionen/Pansarbrigaden.md",
+    "Brigader/Underhållsbrigad (pansar).md",
+    "Brigader/Underhållsbrigad (infanteri).md",
+    "Bataljoner/Ledningsbataljon (infanteri).md",
+    "Bataljoner/Ledningsbataljon (pansar).md",
+    "Brigader/Underättelse- och Artilleribrigaden.md",
+    "Brigader/Pansarbrigaden.md",
+    "Brigader/Motoriserade Skyttebrigaden.md",
+    "Brigader/Mekaniserade Skaraborgsbrigaden.md",
+    "Brigader/Djupverkansbrigaden.md",
+    "Brigader/Mekaniserade Norrbottensbrigaden.md",
+    "Brigader/Norrlands Infanteribrigad.md",
     "Kompanier/Trosskompani.md",
+    "Kompanier/Pansarskyttekompani.md",
+    "Svenska Armén/Fristående Arméförband/Fallskärmsjägarbataljonen.md",
+    "Svenska Armén/Fristående Arméförband/Ammunitionsröjningskompaniet.md",
+    "Svenska Armén/Arméstaben.md",
+    "Svenska Armén/README.md",
+    "Bataljoner/Mekaniserad Bataljon.md",
+    "Brigader/Fältjägarbrigaden.md",
+    "Divisioner/Svenska Infanteridivisionen.md",
+    "Divisioner/Svenska Pansardivisionen.md",
+    "Brigader/Kungliga Livgardesbrigaden.md",
+    "Divisioner",
+    "Brigader",
     "Kompanier/Stridsvagnskompani.md",
     "Kompanier/Stab- och Understödskompani.md",
-    "Kompanier/Pansarskyttekompani.md",
-    "Bataljoner/Mekaniserad Bataljon.md",
-    "Svenska Armén/Svenska Pansardivisionen/Underhållsbrigaden.md",
     "Untitled.md",
     "Kompanier",
     "Bataljoner",
     "Svenska Armén/Fristående Arméförband/Sjukhusbataljonen.md",
-    "Svenska Armén/Svenska Infanteridivisionen/Kungliga Livgardesbrigaden.md",
-    "Svenska Armén/Svenska Infanteridivisionen/Fältjägarbrigaden.md",
-    "Svenska Armén/Svenska Infanteridivisionen/Underättelse- och Artilleribrigaden.md",
     "Untitled.canvas",
-    "Militär/Svenska Pansardivisionen.md",
-    "Militär",
-    "create a link.md",
-    "Welcome.md"
+    "Militär"
   ]
 }
