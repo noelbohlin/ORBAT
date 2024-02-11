@@ -1,6 +1,6 @@
-# Pansarbrigaden
+# Mekaniserade Norrbottensbrigaden
 
-## Ledning- och Sambandskompani
+## Ledningskompani
 
 ## [[Mekaniserad Bataljon]]
 
@@ -9,5 +9,13 @@
 ## [[Mekaniserad Bataljon]]
 
 ## Mekaniserat Spaningskompani
+
+## Ingenjörbataljon
+
+## Artilleribataljon
+
+## Luftvärnskompani
+
+## Sambandskompani
 
 ## Underhållsbataljon
