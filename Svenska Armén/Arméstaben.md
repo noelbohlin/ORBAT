@@ -2,7 +2,9 @@
 
 ## Armétaktisk Stab
 
-## [Fristående Arméförband](/Svenska%20Armén/Fristående%20Arméförband.md)
+## [Svenska Pansardivisionen](/Divisioner/Svenska%20Pansardivisionen.md)
+
+## [Svenska Infanteridivisionen](/Divisioner/Svenska%20Infanteridivisionen.md)
 
 ### [Ammunitionsröjningskompaniet](/Kompanier/Ammunitionsröjningskompaniet.md)
 
@@ -17,7 +19,3 @@
 ### [Operativa Transportbataljonen](/Bataljoner/Operativa%20Transportbataljonen.md)
 
 ### [Sjukhusbataljonen](/Bataljoner/Sjukhusbataljonen.md)
-
-## [Svenska Pansardivisionen](/Divisioner/Svenska%20Pansardivisionen.md)
-
-## [Svenska Infanteridivisionen](/Divisioner/Svenska%20Infanteridivisionen.md)

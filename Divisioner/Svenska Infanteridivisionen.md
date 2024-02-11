@@ -1,10 +1,10 @@
 # Svenska Infanteridivisionen
 
+## [Ledningsbataljon(infanteri)](/Bataljoner/Ledningsbataljon(infanteri).md)
+
 ## [Fältjägarbrigaden](/Brigader/Fältjägarbrigaden.md)
 
 ## [Kungliga Livgardesbrigaden](/Brigader/Kungliga%20Livgardesbrigaden.md)
-
-## [Ledningsbataljon(infanteri)](/Bataljoner/Ledningsbataljon(infanteri).md)
 
 ## [Motoriserade Skyttebrigaden](/Brigader/Motoriserade%20Skyttebrigaden.md)
 
