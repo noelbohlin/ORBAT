@@ -10,7 +10,7 @@
 
 ## Mekaniserat Spaningskompani
 
-## Ingenjörbataljon
+## [Ingenjörbataljon](/Bataljoner/Brigadingenjörbataljon.md)
 
 ## Artilleribataljon
 
