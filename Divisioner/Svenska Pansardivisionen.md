@@ -1,6 +1,6 @@
 # Svenska Pansardivisionen
 
-## [Djupverkansbrigaden](/Brigader/Djupverkansbrigaden.md)
+## [Djupverkansbrigaden](Djupverkansbrigaden.md)
 
 ## [Ledningsbataljon (pansar)](/Bataljoner/Ledningsbataljon%20(pansar).md)
 
