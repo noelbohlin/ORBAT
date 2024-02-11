@@ -1,13 +1,13 @@
 # Mekaniserad Bataljon
 
-## [[Pansarskyttekompani]]
+## [Pansarskyttekompani](/Kompanier/Pansarskyttekompani.md)
 
-## [[Stridsvagnskompani]]
+## [Stridsvagnskompani](/Kompanier/Stridsvagnskompani.md)
 
-## [[Pansarskyttekompani]]
+## [Pansarskyttekompani](/Kompanier/Pansarskyttekompani.md)
 
-## [[Stridsvagnskompani]]
+## [Stridsvagnskompani](/Kompanier/Stridsvagnskompani.md)
 
-## [[Trosskompani]]
+## [Trosskompani](/Kompanier/Trosskompani.md)
 
-## [[Stab- och Understödskompani]]
+## [Stab- och Understödskompani](/Kompanier/Stab-%20och%20Understödskompani.md)

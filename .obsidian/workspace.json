@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "df86ea5ce398061a",
+        "id": "46aa159fead48942",
         "type": "tabs",
         "children": [
           {
-            "id": "3ba6cb117c269885",
+            "id": "b5890128b1adeee4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brigader/Mekaniserade Skaraborgsbrigaden.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brigader/Mekaniserade Skaraborgsbrigaden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brigader/Mekaniserade Skaraborgsbrigaden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Brigader/Mekaniserade Skaraborgsbrigaden.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ba6cb117c269885",
+  "active": "b5890128b1adeee4",
   "lastOpenFiles": [
+    "Divisioner/Svenska Pansardivisionen.md",
+    "Svenska Armén/Fristående Arméförband/MilitärPolisbrigaden.md",
     "Bataljoner/mekaniserad_bataljon.md",
+    "Kompanier/Pansarskyttekompani.md",
+    "Brigader/Mekaniserade Skaraborgsbrigaden.md",
     "Divisioner/Svenska Infanteridivisionen.md",
     "Brigader/Kungliga Livgardesbrigaden.md",
-    "Brigader/Mekaniserade Skaraborgsbrigaden.md",
     "Brigader/Motoriserade Skyttebrigaden.md",
     "Brigader/Pansarbrigaden.md",
     "Brigader/Norrlands Infanteribrigad.md",
@@ -165,18 +160,15 @@
     "Brigader/Underättelse- och Artilleribrigaden.md",
     "Brigader/Djupverkansbrigaden.md",
     "Kompanier/Trosskompani.md",
-    "Kompanier/Pansarskyttekompani.md",
     "Svenska Armén/Fristående Arméförband/Fallskärmsjägarbataljonen.md",
     "Svenska Armén/Fristående Arméförband/Ammunitionsröjningskompaniet.md",
     "Svenska Armén/Arméstaben.md",
     "Svenska Armén/README.md",
     "Brigader/Fältjägarbrigaden.md",
-    "Divisioner/Svenska Pansardivisionen.md",
     "Divisioner",
     "Brigader",
     "Kompanier/Stridsvagnskompani.md",
     "Kompanier/Stab- och Understödskompani.md",
-    "Untitled.md",
     "Kompanier",
     "Bataljoner",
     "Untitled.canvas",
