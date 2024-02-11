@@ -2,7 +2,7 @@
 
 ## [Djupverkansbrigaden](/Brigader/Djupverkansbrigaden.md)
 
-## [Ledningsbataljon (pansar)|Ledningsbataljon (pansar)](/Bataljoner/Ledningsbataljon%20(pansar).md)
+## [Ledningsbataljon (pansar)](/Bataljoner/Ledningsbataljon%20(pansar).md)
 
 ## [Mekaniserade Skaraborgsbrigaden](/Brigader/Mekaniserade%20Skaraborgsbrigaden.md)
 

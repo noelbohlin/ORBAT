@@ -11,8 +11,12 @@
             "id": "b5890128b1adeee4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Divisioner/Svenska Pansardivisionen.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Divisioner/Svenska Pansardivisionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Divisioner/Svenska Pansardivisionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,21 +124,30 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Divisioner/Svenska Pansardivisionen.md"
+              }
+            }
+          },
+          {
+            "id": "8ab7e9e280c3c625",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
@@ -140,12 +155,12 @@
   },
   "active": "b5890128b1adeee4",
   "lastOpenFiles": [
+    "Divisioner/Svenska Infanteridivisionen.md",
     "Divisioner/Svenska Pansardivisionen.md",
     "Svenska Armén/Fristående Arméförband/MilitärPolisbrigaden.md",
     "Bataljoner/mekaniserad_bataljon.md",
     "Kompanier/Pansarskyttekompani.md",
     "Brigader/Mekaniserade Skaraborgsbrigaden.md",
-    "Divisioner/Svenska Infanteridivisionen.md",
     "Brigader/Kungliga Livgardesbrigaden.md",
     "Brigader/Motoriserade Skyttebrigaden.md",
     "Brigader/Pansarbrigaden.md",
