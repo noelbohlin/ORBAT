@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Svenska Armén/Fristående Arméförband.md",
-                "mode": "preview",
+                "file": "Brigader/Pansarbrigaden.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Svenska Armén/Fristående Arméförband.md",
+                "file": "Brigader/Pansarbrigaden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Svenska Armén/Fristående Arméförband.md",
+                "file": "Brigader/Pansarbrigaden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Svenska Armén/Fristående Arméförband.md"
+                "file": "Brigader/Pansarbrigaden.md"
               }
             }
           },
@@ -155,8 +155,13 @@
   },
   "active": "b5890128b1adeee4",
   "lastOpenFiles": [
-    "Bataljoner/Operativa Transportbataljonen.md",
+    "Kompanier/Bandgående Ingenjörkompani.md",
+    "Brigader/Underättelse- och Artilleribrigaden.md",
+    "Bataljoner/Mekaniserad Bataljon.md",
+    "README.md",
+    "Svenska Armén/Arméstaben.md",
     "Svenska Armén/Fristående Arméförband.md",
+    "Bataljoner/Operativa Transportbataljonen.md",
     "Bataljoner/Operativa Sambandsbataljonen.md",
     "Bataljoner/Operativa Logistikbataljonen.md",
     "Kompanier/Ammunitionsröjningskompaniet.md",
@@ -177,11 +182,6 @@
     "Bataljoner/Mekaniserad/ Bataljon.md",
     "Bataljoner/Mekaniserad",
     "Brigader/Underhållsbrigad (infanteri).md",
-    "Brigader/Underhållsbrigad (pansar).md",
-    "Bataljoner/Ledningsbataljon (infanteri).md",
-    "Bataljoner/Ledningsbataljon (pansar).md",
-    "Brigader/Underättelse- och Artilleribrigaden.md",
-    "Kompanier/Trosskompani.md",
     "Divisioner",
     "Brigader",
     "Kompanier",

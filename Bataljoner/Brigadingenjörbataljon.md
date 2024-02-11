@@ -1,8 +1,8 @@
 # Ingenjörbataljon
 
-## Ingenjörkompani
+## [Ingenjörkompani](/Kompanier/Bandgående%20Ingenjörkompani.md)
 
-## Ingenjörkompani
+## [Ingenjörkompani](/Kompanier/Bandgående%20Ingenjörkompani.md)
 
 ## Maskin- Brokompani
 
