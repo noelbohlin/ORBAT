@@ -2,8 +2,6 @@
 
 ## FLP
 
-## Ledningspluton
-
 Chgrp
 2 strigrp - cv90 c2
 Nskygrp - cv90
