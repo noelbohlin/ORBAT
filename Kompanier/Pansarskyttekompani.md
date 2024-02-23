@@ -4,7 +4,7 @@
 
 [CV90C2](https://www.baesystems.com/en/product/cv90)
 
-## L2 
+## L2
 
 [CV90C2](https://www.baesystems.com/en/product/cv90)
 
