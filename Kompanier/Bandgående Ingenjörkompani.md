@@ -56,7 +56,7 @@
 
 [BVS10 LOG](https://www.baesystems.com/en-us/product/bvs10)
 
-[Lastbil]()
+[Rheinmetall HX3 8x8 HET](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation)
 
 ## Stab- och trosspluton
 

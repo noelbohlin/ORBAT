@@ -1,6 +1,6 @@
 # Mekaniserade Norrbottensbrigaden
 
-## Ledningskompani
+## [Ledningskompani](/Kompanier/Ledningskompani.md)
 
 ## [Mekaniserad Bataljon](/Bataljoner/Mekaniserad%20Bataljon.md)
 

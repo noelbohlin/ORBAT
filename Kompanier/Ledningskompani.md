@@ -1,6 +1,6 @@
 # Ledningskompani
 
-## FLP
+## L1
 
 [CV90C2](https://www.baesystems.com/en/product/cv90)
 
@@ -16,7 +16,7 @@ Sbgrp - sbe
 
 Chgrp
 2 st stplgrp
-Kompstgrp
+Komp L1
 Sb/is grp
 2 sbgrp
 
@@ -29,8 +29,6 @@ Sjvgrp
 Repgrp
 
 ## Närskyddspluton
-
-[BVS10 APC](https://www.baesystems.com/en-us/product/bvs10)
 
 [BVS10 APC](https://www.baesystems.com/en-us/product/bvs10)
 
@@ -44,7 +42,7 @@ Repgrp
 
 Chgrp
 2 st stplgrp
-Kompstgrp
+Komp L2
 Sb/is grp
 2 sbgrp
 
@@ -57,8 +55,6 @@ Sjvgrp
 Repgrp
 
 ## Närskyddspluton
-
-[BVS10 APC](https://www.baesystems.com/en-us/product/bvs10)
 
 [BVS10 APC](https://www.baesystems.com/en-us/product/bvs10)
 
