@@ -4,7 +4,7 @@
 
 [Patria AMV XP Command Vehicle](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
 
-## L2 
+## L2
 
 [Patria AMV XP Command Vehicle](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
 
