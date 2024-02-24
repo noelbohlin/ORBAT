@@ -8,6 +8,6 @@
 
 ## [Stridsvagnskompani](/Kompanier/Stridsvagnskompani.md)
 
-## [Trosskompani](/Kompanier/Trosskompani.md)
+## [Trosskompani](/Kompanier/Trosskompani(pansar).md)
 
-## [Stab- och Understödskompani](/Kompanier/Stab-%20och%20Understödskompani.md)
+## [Stab- och Understödskompani](/Kompanier/Stab-%20och%20Understödskompani(pansar).md)
