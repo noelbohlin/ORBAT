@@ -14,19 +14,25 @@ Sbgrp - sbe
 
 ## Stabspluton
 
-Chgrp
 2 st stplgrp
-Komp L1
-Sb/is grp
-2 sbgrp
+
+[BVS10 C2](https://www.baesystems.com/en-us/product/bvs10)
+
+[Rheinmetall HX3 8x8](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation)
+
+[BVS10 Radio Link Unit](https://www.baesystems.com/en-us/product/bvs10)
+
+[BVS10 Radio Link Unit](https://www.baesystems.com/en-us/product/bvs10)
 
 ## Tross pluton
 
 Drift/underhålltropp
 Ordonansgrupp
 Kokgrupp
-Sjvgrp
-Repgrp
+
+[BVS10 Ambulance](https://www.baesystems.com/en-us/product/bvs10)
+
+[BVS10 Repair and Recovery](https://www.baesystems.com/en-us/product/bvs10)
 
 ## Närskyddspluton
 
@@ -40,19 +46,25 @@ Repgrp
 
 ## Stabspluton
 
-Chgrp
 2 st stplgrp
-Komp L2
-Sb/is grp
-2 sbgrp
+
+[BVS10 C2](https://www.baesystems.com/en-us/product/bvs10)
+
+[Rheinmetall HX3 8x8](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation)
+
+[BVS10 Radio Link Unit](https://www.baesystems.com/en-us/product/bvs10)
+
+[BVS10 Radio Link Unit](https://www.baesystems.com/en-us/product/bvs10)
 
 ## Tross pluton
 
 Drift/underhålltropp
 Ordonansgrupp
 Kokgrupp
-Sjvgrp
-Repgrp
+
+[BVS10 Ambulance](https://www.baesystems.com/en-us/product/bvs10)
+
+[BVS10 Repair and Recovery](https://www.baesystems.com/en-us/product/bvs10)
 
 ## Närskyddspluton
 
