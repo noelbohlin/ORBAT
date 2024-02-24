@@ -7,7 +7,6 @@
 // TODO
 
     Telekrig
-    Tungtransport
 
 ### [Svenska Flygvapnet](/Svenska%20Flygvapnet/Flygvapenstaben.md)
 

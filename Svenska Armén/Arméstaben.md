@@ -12,7 +12,9 @@
 
 ### [Militärpolisbrigaden](/Brigader/MilitärPolisbrigaden.md)
 
-### [Operativa Logistikbataljonen](/Bataljoner/Operativa%20Logistikbataljonen.md)
+### [Operativa Logistikbataljon](/Bataljoner/Operativa%20Logistikbataljonen.md)
+
+### [Operativa Logistikbataljon](/Bataljoner/Operativa%20Logistikbataljonen.md)
 
 ### [Operativa Sambandsbataljonen](/Bataljoner/Operativa%20Sambandsbataljonen.md)
 

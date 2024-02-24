@@ -1,6 +1,6 @@
 # Svenska Infanteridivisionen
 
-## [Ledningsbataljon(infanteri)](/Bataljoner/Ledningsbataljon(infanteri).md)
+## [Ledningsbataljon](/Bataljoner/Ledningsbataljon(infanteri).md)
 
 ## [Fältjägarbrigaden](/Brigader/Fältjägarbrigaden.md)
 
