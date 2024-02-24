@@ -8,7 +8,7 @@
 
 [CV90IFV 40mm](https://www.baesystems.com/en/product/cv90)
 
-Sbgrp - sbe
+[BVS10 Radio Link Unit](https://www.baesystems.com/en-us/product/bvs10)
 
 ## L2
 

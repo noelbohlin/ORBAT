@@ -4,9 +4,9 @@
 
 ## Motoriserad Spaningsbataljon
 
-## Första Norrlandsjägarbataljonen
+## Norrlandsjägarbataljon
 
-## Andra Norrlandsjägarbataljonen
+## Norrlandsjägarbataljonen
 
 ## Livhusarernas Underrättelsebataljon
 

@@ -1,6 +1,6 @@
 # Mekaniserade Norrbottensbrigaden
 
-## [Ledningskompani](/Kompanier/Ledningskompani.md)
+## [Ledningskompani](/Kompanier/Ledningskompani(pansar).md)
 
 ## [Mekaniserad Bataljon](/Bataljoner/Mekaniserad%20Bataljon.md)
 
@@ -19,3 +19,5 @@
 ## Sambandskompani
 
 ## Underhållsbataljon
+
+## Tungtransportkompani

@@ -25,3 +25,5 @@
 ## Raketartilleribataljon
 
 ## Underhållsbataljon
+
+## Tungtransportkompani

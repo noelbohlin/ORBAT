@@ -13,3 +13,5 @@
 ## Mekaniserat Spaningskompani
 
 ## Underhållsbataljon
+
+## Tungtransportkompani

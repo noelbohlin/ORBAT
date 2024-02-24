@@ -1,6 +1,6 @@
 # Underhållsbrigaden
 
-## Ledningskompani
+## [Ledningskompani](/Kompanier/Ledningskompani(pansar).md)
 
 ## Brobataljon
 
