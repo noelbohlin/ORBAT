@@ -4,8 +4,6 @@
 
 ## Mekaniserad Spaningsbataljon
 
-## Mekaniserad Spaningsbataljon
-
 ## Livhusarernas Underrättelsebataljon
 
 ## Livhusarernas Jägarbataljon
@@ -19,8 +17,6 @@
 ## Granatartilleribataljon
 
 ## Mekaniserad Raketartilleribataljon
-
-## Raketartilleribataljon
 
 ## Raketartilleribataljon
 
