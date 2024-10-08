@@ -2,13 +2,13 @@
 
 ## [Ledningsbataljon](/Bataljoner/Ledningsbataljon(infanteri).md)
 
-## [Fältjägarbrigaden](/Brigader/Fältjägarbrigaden.md)
+## [Lätt Infanteribrigad](/Brigader/Fältjägarbrigaden.md)
 
-## [Kungliga Livgardesbrigaden](/Brigader/Kungliga%20Livgardesbrigaden.md)
+## [Lätt Infanteribrigad](/Brigader/Kungliga%20Livgardesbrigaden.md)
 
-## [Motoriserade Skyttebrigaden](/Brigader/Motoriserade%20Skyttebrigaden.md)
+## [Motoriserad Infanteribrigad](/Brigader/Motoriserade%20Skyttebrigaden.md)
 
-## [Norrlands Infanteribrigad](/Brigader/Norrlands%20Infanteribrigad.md)
+## [Lätt Infanteribrigad](/Brigader/Norrlands%20Infanteribrigad.md)
 
 ## [Underättelse- och Artilleribrigaden](/Brigader/Underättelse-%20och%20Artilleribrigaden.md)
 
