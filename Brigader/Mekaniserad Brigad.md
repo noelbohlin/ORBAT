@@ -8,16 +8,18 @@
 
 ## [Mekaniserad Bataljon](/Bataljoner/Mekaniserad%20Bataljon.md)
 
-## Mekaniserat Spaningskompani
-
 ## [Ingenjörbataljon](/Bataljoner/Brigadingenjörbataljon.md)
 
+## Underhållsbataljon
+
 ## Artilleribataljon
+
+## Mekaniserat Spaningskompani
 
 ## Luftvärnskompani
 
 ## Sambandskompani
 
-## Underhållsbataljon
+## Telekrigskompani
 
 ## Tungtransportkompani
