@@ -16,15 +16,21 @@
 
 [Leopard 2A7+](https://www.knds.de/en/systems-products/tracked-vehicles/main-battle-tank/leopard-2-a7/)
 
-## Stridsvagnspluton
-
-[Leopard 2A7+](https://www.knds.de/en/systems-products/tracked-vehicles/main-battle-tank/leopard-2-a7/)
-
-[Leopard 2A7+](https://www.knds.de/en/systems-products/tracked-vehicles/main-battle-tank/leopard-2-a7/)
-
 [Leopard 2A7+](https://www.knds.de/en/systems-products/tracked-vehicles/main-battle-tank/leopard-2-a7/)
 
 ## Stridsvagnspluton
+
+[Leopard 2A7+](https://www.knds.de/en/systems-products/tracked-vehicles/main-battle-tank/leopard-2-a7/)
+
+[Leopard 2A7+](https://www.knds.de/en/systems-products/tracked-vehicles/main-battle-tank/leopard-2-a7/)
+
+[Leopard 2A7+](https://www.knds.de/en/systems-products/tracked-vehicles/main-battle-tank/leopard-2-a7/)
+
+[Leopard 2A7+](https://www.knds.de/en/systems-products/tracked-vehicles/main-battle-tank/leopard-2-a7/)
+
+## Stridsvagnspluton
+
+[Leopard 2A7+](https://www.knds.de/en/systems-products/tracked-vehicles/main-battle-tank/leopard-2-a7/)
 
 [Leopard 2A7+](https://www.knds.de/en/systems-products/tracked-vehicles/main-battle-tank/leopard-2-a7/)
 

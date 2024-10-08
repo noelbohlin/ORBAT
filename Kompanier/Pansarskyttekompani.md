@@ -16,15 +16,21 @@
 
 [CV90IFV 40mm](https://www.baesystems.com/en/product/cv90)
 
-## Pansarskyttepluton
-
-[CV90IFV 40mm](https://www.baesystems.com/en/product/cv90)
-
-[CV90IFV 40mm](https://www.baesystems.com/en/product/cv90)
-
 [CV90IFV 40mm](https://www.baesystems.com/en/product/cv90)
 
 ## Pansarskyttepluton
+
+[CV90IFV 40mm](https://www.baesystems.com/en/product/cv90)
+
+[CV90IFV 40mm](https://www.baesystems.com/en/product/cv90)
+
+[CV90IFV 40mm](https://www.baesystems.com/en/product/cv90)
+
+[CV90IFV 40mm](https://www.baesystems.com/en/product/cv90)
+
+## Pansarskyttepluton
+
+[CV90IFV 40mm](https://www.baesystems.com/en/product/cv90)
 
 [CV90IFV 40mm](https://www.baesystems.com/en/product/cv90)
 
