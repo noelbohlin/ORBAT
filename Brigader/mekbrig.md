@@ -1,20 +1,20 @@
 # Mekaniserade Norrbottensbrigaden
 
-## [Ledningskompani](/Kompanier/Brigadledningskompani(pansar).md)
+## [Ledningskompani](/Kompanier/mekbrigledkomp.md)
 
-## [Mekaniserad Bataljon](/Bataljoner/Mekaniserad%20Bataljon.md)
+## [Mekaniserad Bataljon](/Bataljoner/mekbat.md)
 
-## [Mekaniserad Bataljon](/Bataljoner/Mekaniserad%20Bataljon.md)
+## [Mekaniserad Bataljon](/Bataljoner/mekbat.md)
 
-## [Mekaniserad Bataljon](/Bataljoner/Mekaniserad%20Bataljon.md)
+## [Mekaniserad Bataljon](/Bataljoner/mekbat.md)
 
-## [Ingenjörbataljon](/Bataljoner/Brigadingenjörbataljon.md)
+## [Ingenjörbataljon](/Bataljoner/mekbrigingbat.md)
 
-## [Underhållsbataljon](/Bataljoner/Brigadunderhållsbataljon.md)
+## [Underhållsbataljon](/Bataljoner/mekbriguhbat.md)
 
-## [Artilleribataljon](/Bataljoner/Brigadartilleribataljon.md)
+## [Artilleribataljon](/Bataljoner/mekbrigartbat.md)
 
-## Mekaniserat Spaningskompani
+## [Mekaniserat Spaningskompani](/Kompanier/mekbrigspankomp.md)
 
 ## Luftvärnskompani
 
