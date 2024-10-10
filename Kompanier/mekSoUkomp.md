@@ -26,9 +26,9 @@
 
 [CV90RECCE](https://www.baesystems.com/en/product/cv90)
 
-[CV90IFV 40mm](https://www.baesystems.com/en/product/cv90)
+[CV90RECCE](https://www.baesystems.com/en/product/cv90)
 
-[CV90IFV 40mm](https://www.baesystems.com/en/product/cv90)
+[CV90RECCE](https://www.baesystems.com/en/product/cv90)
 
 ## Granatkastarpluton
 
