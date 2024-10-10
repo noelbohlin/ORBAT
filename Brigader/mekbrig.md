@@ -1,4 +1,4 @@
-# Mekaniserade Norrbottensbrigaden
+# Mekaniserad Brigad
 
 ## [Ledningskompani](/Kompanier/mekbrigledkomp.md)
 
