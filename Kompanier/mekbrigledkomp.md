@@ -14,41 +14,31 @@
 
 ## L2
 
-## Stabspluton
+[CV90C2](https://www.baesystems.com/en/product/cv90)
 
-2 st stplgrp
+[CV90C2](https://www.baesystems.com/en/product/cv90)
 
-[BVS10 C2](https://www.baesystems.com/en-us/product/bvs10)
+[CV90IFV 40mm](https://www.baesystems.com/en/product/cv90)
 
-[Rheinmetall HX3 8x8](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation)
-
-[BVS10 Radio Link Unit](https://www.baesystems.com/en-us/product/bvs10)
+[BVS10 LOG](https://www.baesystems.com/en-us/product/bvs10)
 
 [BVS10 Radio Link Unit](https://www.baesystems.com/en-us/product/bvs10)
-
-## Tross pluton
-
-Drift/underhålltropp
-Ordonansgrupp
-Kokgrupp
-
-[BVS10 Ambulance](https://www.baesystems.com/en-us/product/bvs10)
-
-[BVS10 Repair and Recovery](https://www.baesystems.com/en-us/product/bvs10)
-
-## Närskyddspluton
-
-[BVS10 APC](https://www.baesystems.com/en-us/product/bvs10)
-
-[BVS10 APC](https://www.baesystems.com/en-us/product/bvs10)
-
-[BVS10 APC](https://www.baesystems.com/en-us/product/bvs10)
 
 ## L3
 
 ## Stabspluton
 
-2 st stplgrp
+[Rheinmetall HX3 8x8](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation)
+
+[Rheinmetall HX3 8x8](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation)
+
+[Rheinmetall HX3 8x8](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation)
+
+[Rheinmetall HX3 8x8](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation)
+
+[Rheinmetall HX3 8x8](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation)
+
+[Rheinmetall HX3 8x8](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation)
 
 [BVS10 C2](https://www.baesystems.com/en-us/product/bvs10)
 
@@ -58,7 +48,7 @@ Kokgrupp
 
 [BVS10 Radio Link Unit](https://www.baesystems.com/en-us/product/bvs10)
 
-## Tross pluton
+## Trosspluton
 
 Drift/underhålltropp
 Ordonansgrupp
