@@ -1,5 +1,5 @@
 # ORBAT
 
-## Swedish Armed Forces ORBAT
+## Armed Forces ORBAT
 
-### [Svenska Armén](/Svenska%20Armén/Arméstaben.md)
+### [Armén](/Svenska%20Armén/Arméstaben.md)
