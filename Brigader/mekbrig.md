@@ -19,5 +19,3 @@
 ## Luftvärnskompani
 
 ## Sambandskompani
-
-## Telekrigskompani
