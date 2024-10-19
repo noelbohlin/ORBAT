@@ -14,7 +14,7 @@
 
 ## [Artilleribataljon](/Bataljoner/mekbrigartbat.md)
 
-## [Mekaniserat Spaningskompani](/Kompanier/mekbrigspankomp.md)
+## [Underättelsebataljon](/Bataljoner/mekbrigundbat.md)
 
 ## Luftvärnskompani
 
