@@ -6,7 +6,7 @@
 
 [CV90C2](https://www.baesystems.com/en/product/cv90)
 
-[CV90IFV 40mm](https://www.baesystems.com/en/product/cv90)
+[CV90IFV 35mm](https://www.baesystems.com/en/product/cv90)
 
 [BVS10 LOG](https://www.baesystems.com/en-us/product/bvs10)
 
@@ -18,7 +18,7 @@
 
 [CV90C2](https://www.baesystems.com/en/product/cv90)
 
-[CV90IFV 40mm](https://www.baesystems.com/en/product/cv90)
+[CV90IFV 35mm](https://www.baesystems.com/en/product/cv90)
 
 [BVS10 LOG](https://www.baesystems.com/en-us/product/bvs10)
 
