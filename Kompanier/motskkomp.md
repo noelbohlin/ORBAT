@@ -16,15 +16,21 @@
 
 [Patria AMV XP IFV](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
 
-## Skyttepluton
-
-[Patria AMV XP IFV](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
-
-[Patria AMV XP IFV](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
-
 [Patria AMV XP IFV](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
 
 ## Skyttepluton
+
+[Patria AMV XP IFV](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
+
+[Patria AMV XP IFV](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
+
+[Patria AMV XP IFV](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
+
+[Patria AMV XP IFV](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
+
+## Skyttepluton
+
+[Patria AMV XP IFV](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
 
 [Patria AMV XP IFV](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
 
