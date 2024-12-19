@@ -26,37 +26,37 @@
 
 ## Spaningspluton
 
-[CV90RECCE](https://www.baesystems.com/en/product/cv90)
+[Patria AMV XP Reconnaissance Vehicle](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
 
-[CV90RECCE](https://www.baesystems.com/en/product/cv90)
+[Patria AMV XP Reconnaissance Vehicle](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
 
-[CV90RECCE](https://www.baesystems.com/en/product/cv90)
+[Patria AMV XP Reconnaissance Vehicle](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
 
-[CV90RECCE](https://www.baesystems.com/en/product/cv90)
-
-## Granatkastarpluton
-
-[CV90 Mortar Mjölner](https://www.baesystems.com/en/product/cv90)
-
-[CV90 Mortar Mjölner](https://www.baesystems.com/en/product/cv90)
-
-[CV90 Mortar Mjölner](https://www.baesystems.com/en/product/cv90)
-
-[CV90 Mortar Mjölner](https://www.baesystems.com/en/product/cv90)
-
-[BVS10 Log](https://www.baesystems.com/en-us/product/bvs10)
+[Patria AMV XP Reconnaissance Vehicle](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
 
 ## Granatkastarpluton
 
-[CV90 Mortar Mjölner](https://www.baesystems.com/en/product/cv90)
+[Patria AMV XP Nemo Mortar](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
 
-[CV90 Mortar Mjölner](https://www.baesystems.com/en/product/cv90)
+[Patria AMV XP Nemo Mortar](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
 
-[CV90 Mortar Mjölner](https://www.baesystems.com/en/product/cv90)
+[Patria AMV XP Nemo Mortar](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
 
-[CV90 Mortar Mjölner](https://www.baesystems.com/en/product/cv90)
+[Patria AMV XP Nemo Mortar](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
 
-[BVS10 Log](https://www.baesystems.com/en-us/product/bvs10)
+[Rheinmetall HX3 8x8](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation)
+
+## Granatkastarpluton
+
+[Patria AMV XP Nemo Mortar](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
+
+[Patria AMV XP Nemo Mortar](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
+
+[Patria AMV XP Nemo Mortar](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
+
+[Patria AMV XP Nemo Mortar](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
+
+[Rheinmetall HX3 8x8](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation)
 
 ## Luftvärnspluton
 
