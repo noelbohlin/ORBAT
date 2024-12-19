@@ -2,7 +2,7 @@
 
 ## [Ledningskompani](/Kompanier/motbrigledkomp.md)
 
-## [Motoriserad Bataljon](/Bataljoner/motbat.md)
+## [Motoriserad skyttebataljon](/Bataljoner/motskbat.md)
 
 ## [Motoriserad Bataljon](/Bataljoner/motbat.md)
 
