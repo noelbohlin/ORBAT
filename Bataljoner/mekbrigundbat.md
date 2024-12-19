@@ -2,4 +2,4 @@
 
 ## [Mekaniserat Spaningskompani](/Kompanier/mekbrigspankomp.md)
 
-## Telekrigskompani
+## [Telekrigkompani](/Kompanier/mekbrigtkkomp.md)
