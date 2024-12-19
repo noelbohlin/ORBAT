@@ -1,12 +1,12 @@
-# Mekaniserad Brigad
+# Motoriserad Brigad
 
 ## [Ledningskompani](/Kompanier/motbrigledkomp.md)
 
-## [Mekaniserad Bataljon](/Bataljoner/motbat.md)
+## [Motoriserad Bataljon](/Bataljoner/motbat.md)
 
-## [Mekaniserad Bataljon](/Bataljoner/motbat.md)
+## [Motoriserad Bataljon](/Bataljoner/motbat.md)
 
-## [Mekaniserad Bataljon](/Bataljoner/motbat.md)
+## [Motoriserad Bataljon](/Bataljoner/motbat.md)
 
 ## [Ingenjörbataljon](/Bataljoner/motbrigingbat.md)
 
