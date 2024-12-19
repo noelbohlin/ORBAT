@@ -16,21 +16,9 @@
 
 [BVS10 APC](https://www.baesystems.com/en-us/product/bvs10)
 
-[BVS10 APC](https://www.baesystems.com/en-us/product/bvs10)
+[BVS10 Log](https://www.baesystems.com/en-us/product/bvs10)
 
-[BVS10 LOG](https://www.baesystems.com/en-us/product/bvs10)
-
-## Ingenjörpluton
-
-[BVS10 APC](https://www.baesystems.com/en-us/product/bvs10)
-
-[BVS10 APC](https://www.baesystems.com/en-us/product/bvs10)
-
-[BVS10 APC](https://www.baesystems.com/en-us/product/bvs10)
-
-[BVS10 APC](https://www.baesystems.com/en-us/product/bvs10)
-
-[BVS10 LOG](https://www.baesystems.com/en-us/product/bvs10)
+[BVS10 Log](https://www.baesystems.com/en-us/product/bvs10)
 
 ## Ingenjörpluton
 
@@ -40,9 +28,21 @@
 
 [BVS10 APC](https://www.baesystems.com/en-us/product/bvs10)
 
+[BVS10 Log](https://www.baesystems.com/en-us/product/bvs10)
+
+[BVS10 Log](https://www.baesystems.com/en-us/product/bvs10)
+
+## Ingenjörpluton
+
 [BVS10 APC](https://www.baesystems.com/en-us/product/bvs10)
 
-[BVS10 LOG](https://www.baesystems.com/en-us/product/bvs10)
+[BVS10 APC](https://www.baesystems.com/en-us/product/bvs10)
+
+[BVS10 APC](https://www.baesystems.com/en-us/product/bvs10)
+
+[BVS10 Log](https://www.baesystems.com/en-us/product/bvs10)
+
+[BVS10 Log](https://www.baesystems.com/en-us/product/bvs10)
 
 ## Maskinpluton
 
@@ -54,7 +54,7 @@
 
 [KMW Leugan](https://www.knds.de/en/systems-products/tracked-vehicles/bridges/leguan/)
 
-[BVS10 LOG](https://www.baesystems.com/en-us/product/bvs10)
+[BVS10 Log](https://www.baesystems.com/en-us/product/bvs10)
 
 [Rheinmetall HX3 8x8 HET](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation)
 
@@ -68,6 +68,6 @@
 
 [BVS10 Ambulance](https://www.baesystems.com/en-us/product/bvs10)
 
-[BVS10 LOG](https://www.baesystems.com/en-us/product/bvs10)
+[BVS10 Log](https://www.baesystems.com/en-us/product/bvs10)
 
-[BVS10 LOG](https://www.baesystems.com/en-us/product/bvs10)
+[BVS10 Log](https://www.baesystems.com/en-us/product/bvs10)
