@@ -8,9 +8,9 @@
 
 [Patria AMV XP IFV](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
 
-[SISU GTP 4x4](https://sisuauto.com/en/gtp-4x4/) Log
+[SISU GTP 4x4 GP](https://sisuauto.com/en/gtp-4x4/) Log
 
-[SISU GTP 4x4](https://sisuauto.com/en/gtp-4x4/) Signal unit 
+[SISU GTP 4x4 GP](https://sisuauto.com/en/gtp-4x4/) Signal unit 
 
 ## L2
 
@@ -20,9 +20,9 @@
 
 [Patria AMV XP IFV](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
 
-[SISU GTP 4x4](https://sisuauto.com/en/gtp-4x4/) Log
+[SISU GTP 4x4 GP](https://sisuauto.com/en/gtp-4x4/) Log
 
-[SISU GTP 4x4](https://sisuauto.com/en/gtp-4x4/) Signal unit 
+[SISU GTP 4x4 GP](https://sisuauto.com/en/gtp-4x4/) Signal unit 
 
 ## L3
 
@@ -44,9 +44,9 @@
 
 [Rheinmetall HX3 8x8](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation)
 
-[SISU GTP 4x4](https://sisuauto.com/en/gtp-4x4/) Signal unit 
+[SISU GTP 4x4 GP](https://sisuauto.com/en/gtp-4x4/) Signal unit 
 
-[SISU GTP 4x4](https://sisuauto.com/en/gtp-4x4/) Signal unit 
+[SISU GTP 4x4 GP](https://sisuauto.com/en/gtp-4x4/) Signal unit 
 
 ### Trosspluton
 
@@ -56,7 +56,7 @@ Kokgrupp
 
 [Patria 6x6 Ambulance](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-6x6)
 
-[BVS10 Repair and Recovery](https://www.baesystems.com/en-us/product/bvs10)
+[Patria AMV XP ARRV](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-amv-xp-number-1-in-the-battlefield)
 
 ### Närskyddspluton
 
