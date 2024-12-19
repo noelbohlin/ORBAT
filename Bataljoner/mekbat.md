@@ -8,6 +8,6 @@
 
 ## [Stridsvagnskompani](/Kompanier/mekstrvkomp.md)
 
-## [Trosskompani](/Kompanier/Trosskompani(pansar).md)
+## [Trosskompani](/Kompanier/mektrosskomp.md)
 
 ## [Stab- och Understödskompani](/Kompanier/mekSoUkomp.md)
