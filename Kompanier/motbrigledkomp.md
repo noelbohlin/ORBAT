@@ -40,7 +40,7 @@
 
 [Rheinmetall HX3 8x8](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation)
 
-[SISU GTP 4x4](https://sisuauto.com/en/gtp-4x4/) Kompaniledningsvagn
+[Patria 6x6 Command Vehicle](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-6x6)
 
 [Rheinmetall HX3 8x8](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation)
 
@@ -60,8 +60,8 @@ Kokgrupp
 
 ## Närskyddspluton
 
-[SISU GTP 4x4 APC](https://sisuauto.com/en/gtp-4x4/)
+[Patria 6x6 APC](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-6x6)
 
-[SISU GTP 4x4 APC](https://sisuauto.com/en/gtp-4x4/)
+[Patria 6x6 APC](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-6x6)
 
-[SISU GTP 4x4 APC](https://sisuauto.com/en/gtp-4x4/)
+[Patria 6x6 APC](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-6x6)
