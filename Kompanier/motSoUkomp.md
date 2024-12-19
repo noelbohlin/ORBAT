@@ -20,7 +20,7 @@
 
 [Rheinmetall HX3 8x8](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation)
 
-[Rheinmetall HX3 8x8](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation) Signal Unit
+[SISU GTP 4x4 GP](https://sisuauto.com/en/gtp-4x4/) Signal unit 
 
 ## Stab- och Trosspluton
 
