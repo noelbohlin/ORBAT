@@ -2,6 +2,4 @@
 
 ## Armétaktisk Stab
 
-## [Pansardivision](/Divisioner/Pansardivision.md)
-
-## [Infanteridivision](/Divisioner/Infanteridivision.md)
+## [Division](/Divisioner/Pansardivision.md)
