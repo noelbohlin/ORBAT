@@ -6,4 +6,4 @@
 
 ## [Maskin- och Brokompani](/Kompanier/mekbrigingMaoBrokomp.md)
 
-## [Stab- och Trosskompani](/Kompanier/mekbrigingSoUkomp.md)
+## [Stab- och Trosskompani](/Kompanier/mekbrigingSoTkomp.md)
