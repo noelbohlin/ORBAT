@@ -16,6 +16,6 @@
 
 ## [Underättelsebataljon](/Bataljoner/motbrigundbat.md)
 
-## Luftvärnskompani
+## [Luftvärnskompani](/Kompanier/motbriglvkomp.md)
 
-## Sambandskompani
+## [Sambandskompani](/Kompanier/motbrigsbkomp.md)
