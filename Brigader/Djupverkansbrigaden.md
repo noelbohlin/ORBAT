@@ -4,13 +4,9 @@
 
 ## Mekaniserad Spaningsbataljon
 
-## Livhusarernas Underrättelsebataljon
-
-## Livhusarernas Jägarbataljon
+## Underrättelsebataljon
 
 ## Eldledningsbataljon
-
-## Mekaniserad Granatartilleribataljon
 
 ## Mekaniserad Granatartilleribataljon
 
@@ -21,5 +17,3 @@
 ## Raketartilleribataljon
 
 ## Underhållsbataljon
-
-## Tungtransportkompani
