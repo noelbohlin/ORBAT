@@ -20,7 +20,7 @@
 
 [Rheinmetall HX3 8x8](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation)
 
-[BVS10 Radio Link Unit](https://www.baesystems.com/en-us/product/bvs10)
+[Rheinmetall HX3 8x8](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation) Signal Unit
 
 ## Stab- och Trosspluton
 
