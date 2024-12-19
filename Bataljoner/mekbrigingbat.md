@@ -1,9 +1,9 @@
 # Ingenjörbataljon
 
-## [Ingenjörkompani](/Kompanier/Bandgående%20Ingenjörkompani.md)
+## [Ingenjörkompani](/Kompanier/mekbrigingkomp.md)
 
-## [Ingenjörkompani](/Kompanier/Bandgående%20Ingenjörkompani.md)
+## [Ingenjörkompani](/Kompanier/mekbrigingkomp.md)
 
-## [Maskin- och Brokompani](/Kompanier/Maskin-%20och%20Brokompani(brigingbat).md)
+## [Maskin- och Brokompani](/Kompanier/mekbrigingMaoBrokomp.md)
 
-## [Stab- och Trosskompani](/Kompanier/Stab-%20och%20Trosskompani(brigingbat).md)
+## [Stab- och Trosskompani](/Kompanier/mekbrigingSoUkomp.md)
