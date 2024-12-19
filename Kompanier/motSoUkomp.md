@@ -60,10 +60,3 @@
 
 ## Luftvärnspluton
 
-[CV90AAV](https://www.baesystems.com/en/product/cv90)
-
-[CV90AAV](https://www.baesystems.com/en/product/cv90)
-
-[CV90AAV](https://www.baesystems.com/en/product/cv90)
-
-[CV90AAV](https://www.baesystems.com/en/product/cv90)
