@@ -8,9 +8,9 @@
 
 [CV90IFV 35mm](https://www.baesystems.com/en/product/cv90)
 
-[BVS10 LOG](https://www.baesystems.com/en-us/product/bvs10)
+[BVS10 Log](https://www.baesystems.com/en-us/product/bvs10)
 
-[BVS10 Radio Link Unit](https://www.baesystems.com/en-us/product/bvs10)
+[BVS10 Log](https://www.baesystems.com/en-us/product/bvs10) Signal Unit
 
 ## L2
 
@@ -20,9 +20,9 @@
 
 [CV90IFV 35mm](https://www.baesystems.com/en/product/cv90)
 
-[BVS10 LOG](https://www.baesystems.com/en-us/product/bvs10)
+[BVS10 Log](https://www.baesystems.com/en-us/product/bvs10)
 
-[BVS10 Radio Link Unit](https://www.baesystems.com/en-us/product/bvs10)
+[BVS10 Log](https://www.baesystems.com/en-us/product/bvs10) Signal Unit
 
 ## L3
 
@@ -44,9 +44,9 @@
 
 [Rheinmetall HX3 8x8](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation)
 
-[BVS10 Radio Link Unit](https://www.baesystems.com/en-us/product/bvs10)
+[BVS10 Log](https://www.baesystems.com/en-us/product/bvs10) Signal Unit
 
-[BVS10 Radio Link Unit](https://www.baesystems.com/en-us/product/bvs10)
+[BVS10 Log](https://www.baesystems.com/en-us/product/bvs10) Signal Unit
 
 ## Trosspluton
 
