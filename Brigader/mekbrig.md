@@ -16,6 +16,6 @@
 
 ## [Underättelsebataljon](/Bataljoner/mekbrigundbat.md)
 
-## Luftvärnskompani
+## [Luftvärnskompani](/Kompanier/mekbriglvkomp.md)
 
-## Sambandskompani
+## [Sambandskompani](/Kompanier/mekbrigsbkomp.md)
