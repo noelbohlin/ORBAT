@@ -16,21 +16,9 @@
 
 [Patria 6x6 APC](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-6x6)
 
-[Patria 6x6 APC](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-6x6)
+[SISU GTP 4x4 GP](https://sisuauto.com/en/gtp-4x4/)
 
-[Rheinmetall HX3 8x8](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation)
-
-## Ingenjörpluton
-
-[Patria 6x6 APC](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-6x6)
-
-[Patria 6x6 APC](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-6x6)
-
-[Patria 6x6 APC](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-6x6)
-
-[Patria 6x6 APC](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-6x6)
-
-[Rheinmetall HX3 8x8](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation)
+[SISU GTP 4x4 GP](https://sisuauto.com/en/gtp-4x4/)
 
 ## Ingenjörpluton
 
@@ -40,9 +28,21 @@
 
 [Patria 6x6 APC](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-6x6)
 
+[SISU GTP 4x4 GP](https://sisuauto.com/en/gtp-4x4/)
+
+[SISU GTP 4x4 GP](https://sisuauto.com/en/gtp-4x4/)
+
+## Ingenjörpluton
+
 [Patria 6x6 APC](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-6x6)
 
-[Rheinmetall HX3 8x8](https://www.rheinmetall.com/en/products/logistic-vehicles/military-trucks/hx3-generation)
+[Patria 6x6 APC](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-6x6)
+
+[Patria 6x6 APC](https://www.patriagroup.com/products-and-services/protected-mobility-and-defence-systems/vehicles/patria-6x6)
+
+[SISU GTP 4x4 GP](https://sisuauto.com/en/gtp-4x4/)
+
+[SISU GTP 4x4 GP](https://sisuauto.com/en/gtp-4x4/)
 
 ## Maskinpluton
 
