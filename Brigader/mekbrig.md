@@ -2,7 +2,7 @@
 
 ## [Ledningskompani](/Kompanier/mekbrigledkomp.md)
 
-## [Mekaniserad Bataljon](/Bataljoner/mekbat.md)
+## [Mekaniserad Skyttebataljon](/Bataljoner/mekskbat.md)
 
 ## [Mekaniserad Bataljon](/Bataljoner/mekbat.md)
 
