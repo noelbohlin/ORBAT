@@ -1,6 +1,6 @@
 # Brigadunderhållsbataljon
 
-## Stab- och Trosskompani
+## Stab- och Militärpoliskompani
 
 ## Tungtransportkompani
 
