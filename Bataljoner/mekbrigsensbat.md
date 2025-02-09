@@ -5,3 +5,5 @@
 ## [Telekrigkompani](/Kompanier/mekbrigtkkomp.md)
 
 ## [Luftvärnskompani](/Kompanier/mekbriglvkomp.md)
+
+## [Stab- och trosskompani]
