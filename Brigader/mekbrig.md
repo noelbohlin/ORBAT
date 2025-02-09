@@ -14,8 +14,6 @@
 
 ## [Artilleribataljon](/Bataljoner/mekbrigartbat.md)
 
-## [Underättelsebataljon](/Bataljoner/mekbrigundbat.md)
-
-## [Luftvärnskompani](/Kompanier/mekbriglvkomp.md)
+## [Sensorbataljon](/Bataljoner/mekbrigsensbat.md)
 
 ## [Sambandskompani](/Kompanier/mekbrigsbkomp.md)
