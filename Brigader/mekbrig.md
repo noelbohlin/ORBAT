@@ -15,5 +15,3 @@
 ## [Artilleribataljon](/Bataljoner/mekbrigartbat.md)
 
 ## [Sensorbataljon](/Bataljoner/mekbrigsensbat.md)
-
-## [Sambandskompani](/Kompanier/mekbrigsbkomp.md)
