@@ -1,4 +1,4 @@
-# Underättelsebataljon
+# Sensorbataljon
 
 ## [Mekaniserat Spaningskompani](/Kompanier/mekbrigspankomp.md)
 
