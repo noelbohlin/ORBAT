@@ -6,4 +6,6 @@
 
 ## [Luftvärnskompani](/Kompanier/mekbriglvkomp.md)
 
+## [RPASkompani]()
+
 ## [Stab- och trosskompani]()
