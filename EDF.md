@@ -12,18 +12,21 @@ K2 Black Panther
 
 CV90 120
 
-Patria AMV XP 120
+Patria AMV XP 120mm
 
+BOXER Wheeled RCT120
+
+BOXER Tracked RCT120
 
 ### IFV
 
-CV90
+CV90IFV 35mm
 
-BOXER Wheeled
+BOXER Wheeled RCT35
 
-BOXER Tracked
+BOXER Tracked RCT35
 
-Patria AMV XP
+Patria AMV XP IFV
 
 ### APC
 
@@ -39,9 +42,9 @@ Patria AMV XP NEMO
 
 CV90 Mjölnir
 
-BOXER Wheeled NEMO
+BOXER Wheeled NEMO 120
 
-BOXER Tracked NEMO
+BOXER Tracked NEMO 120
 
 #### Artillery
 
