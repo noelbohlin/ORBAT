@@ -6,6 +6,8 @@
 
 KNDS Leopard 2A8
 
+K2 Black Panther
+
 ### IFV
 
 CV90
@@ -41,6 +43,36 @@ BOXER Wheeled RCH 155
 BOXER Tracked RCH 155
 
 ## EUNF
+
+### Destroyers
+
+Horizon class
+
+### Frigate
+
+FREMM
+
+### Corvette
+
+Sigma class
+
+Visby class
+
+### Arctic patrol
+
+Svalbard
+
+### Submarines
+
+Blekinge
+
+### Patrol Boats
+
+CB90
+
+Skjold-class
+
+Enforcer
 
 ## EUAF
 
