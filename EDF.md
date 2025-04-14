@@ -2,11 +2,18 @@
 
 ## EULF
 
-### MBT
+### Main Battle Tank
 
 KNDS Leopard 2A8
 
 K2 Black Panther
+
+### Light Tank 
+
+CV90 120
+
+Patria AMV XP 120
+
 
 ### IFV
 
@@ -42,6 +49,25 @@ BOXER Wheeled RCH 155
 
 BOXER Tracked RCH 155
 
+Archer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## EUNF
 
 ### Destroyers
@@ -73,6 +99,34 @@ CB90
 Skjold-class
 
 Enforcer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## EUAF
 
