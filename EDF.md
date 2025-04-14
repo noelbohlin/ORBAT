@@ -12,8 +12,6 @@ K2
 
 CV90
 
-ASCOD
-
 Boxer
 
 Patria AMV XP
@@ -29,8 +27,6 @@ Patria 6x6
 Archer
 
 RCH 155
-
-PZH2000
 
 K9
 
