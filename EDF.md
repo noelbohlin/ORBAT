@@ -4,13 +4,15 @@
 
 ### MBT
 
-KMW Leopard 2A8
+KNDS Leopard 2A8
 
 ### IFV
 
 CV90
 
-Boxer
+BOXER Wheeled
+
+BOXER Tracked
 
 Patria AMV XP
 
@@ -22,11 +24,25 @@ Patria 6x6
 
 ### SPG
 
-Patria NEMO
+#### Mortars
 
-RCH 155
+Patria AMV XP NEMO
+
+CV90 Mjölnir
+
+BOXER Wheeled NEMO
+
+BOXER Tracked NEMO
+
+#### Artillery
+
+BOXER Wheeled RCH 155
+
+BOXER Tracked RCH 155
 
 ## EUNF
 
 ## EUAF
+
+SAAB Gripen E
 
