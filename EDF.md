@@ -22,8 +22,6 @@ Patria 6x6
 
 ### SPG
 
-Archer
-
 RCH 155
 
 ## EUNF
