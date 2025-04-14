@@ -22,6 +22,8 @@ Patria 6x6
 
 ### SPG
 
+Patria NEMO
+
 RCH 155
 
 ## EUNF
