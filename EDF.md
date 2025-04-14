@@ -6,8 +6,6 @@
 
 KMW Leopard 2A8
 
-K2
-
 ### IFV
 
 CV90
@@ -27,8 +25,6 @@ Patria 6x6
 Archer
 
 RCH 155
-
-K9
 
 ## EUNF
 
