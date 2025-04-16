@@ -52,7 +52,6 @@ BOXER Wheeled RCH 155
 
 BOXER Tracked RCH 155
 
-Archer
 
 
 
